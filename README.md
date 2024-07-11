@@ -63,6 +63,8 @@ New Result: (%46)
 
 <img width="743" alt="function2-new-result" src="https://github.com/oykusen/music-assistant-test/assets/122273200/7ded1d85-6e90-4b80-8a52-fcab30f157f5">
 
+Why? test_get_artist function checks the get_artist functions return type and elibigle artist object's information.
+
 
 ### Overall
 
