@@ -1,6 +1,6 @@
 # Report for Assignment 1 resit
 
-## Project chosen
+## Project Music Assistant
 
 Name: Music Assistant - Server
 
