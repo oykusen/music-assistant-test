@@ -66,7 +66,7 @@ class Music:
         """Get single Track from the server."""
         return Track.from_dict(
             await self.client.send_command(
-                "music/tracks/get_track",
+                command="music/tracks/get_track",
                 item_id=item_id,
                 provider_instance_id_or_domain=provider_instance_id_or_domain,
                 album_uri=album_uri,
@@ -217,7 +217,7 @@ class Music:
         """Get single Artist from the server."""
         return Artist.from_dict(
             await self.client.send_command(
-                "music/artists/get_artist",
+                command="music/artists/get_artist",
                 item_id=item_id,
                 provider_instance_id_or_domain=provider_instance_id_or_domain,
             ),
