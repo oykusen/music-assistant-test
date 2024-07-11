@@ -66,6 +66,10 @@ New Result: (%46)
 
 ### Overall
 
+Old Result: (%12)
+
 <img width="1422" alt="test-before-html-1" src="https://github.com/oykusen/music-assistant-test/assets/122273200/3a18858e-5fd8-4366-a7f9-13f12dcd246e">
+
+New Result: (%14)
 
 <img width="1422" alt="1" src="https://github.com/oykusen/music-assistant-test/assets/122273200/3e5ea6e1-4ad1-4672-b64a-63cc0ad48a6b">
